@@ -20,6 +20,10 @@
 > and the account you sign in with is the one at risk. A kimi.ai front-end change can break it at
 > any time.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="KimiChatCLI controller window with the relay active and the four chatmode models listed">
+</p>
+
 ## What it does
 
 Launching `KimiChatCLI.exe` activates it straight away:
