@@ -26,7 +26,7 @@
 > any time.
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Kimi Code CLI running on Chatmode Instant in Windows Terminal, beside the KimiChatCLI controller window with the relay active">
+  <img src="docs/screenshot-session.png" alt="Kimi Code CLI running on Chatmode Instant in Windows Terminal, beside the KimiChatCLI controller window with the relay active">
 </p>
 
 ## What it does
