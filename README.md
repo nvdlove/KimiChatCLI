@@ -12,6 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/nvdlove/KimiChatCLI/actions/workflows/ci.yml"><img src="https://github.com/nvdlove/KimiChatCLI/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://discord.com/invite/loaders"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&amp;logoColor=white" alt="Join the Discord"></a>
+</p>
+
+<p align="center">
+  <b>Questions, help and updates: <a href="https://discord.com/invite/loaders">join the Discord</a>.</b>
 </p>
 
 > [!IMPORTANT]
@@ -21,7 +26,7 @@
 > any time.
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="KimiChatCLI controller window with the relay active and the four chatmode models listed">
+  <img src="docs/screenshot.png" alt="Kimi Code CLI running on Chatmode Instant in Windows Terminal, beside the KimiChatCLI controller window with the relay active">
 </p>
 
 ## What it does
@@ -220,6 +225,11 @@ python/swarm_backend.py   Python worker pool behind kimi_swarm_spawn, embedded i
 build.rs                  draws the icon and embeds it as a Windows resource
 docs/architecture.md      ownership, request flow and recovery
 ```
+
+## Community
+
+Questions, setup help, bug reports and updates all go through Discord:
+**[join the server](https://discord.com/invite/loaders)**.
 
 ## License
 
