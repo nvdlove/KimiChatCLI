@@ -1,0 +1,4 @@
+# Keep LF everywhere so CI checkouts match the tested tree; the Python
+# backend is embedded into the executable byte-for-byte.
+* text=auto eol=lf
+*.png binary

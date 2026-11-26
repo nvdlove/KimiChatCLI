@@ -1,0 +1,11 @@
+# Build output
+/target/
+/dist/
+*.exe
+*.pdb
+
+# Runtime state, if KIMICHATCLI_STATE_DIR or the legacy layout points here.
+# It holds a copy of your browser cookies and backups of your Kimi config.
+/state/
+/logs/
+*.log
